@@ -36,5 +36,4 @@
 ---
 
 ### 📌 Pinned Projects
-Showcase your best 6 repositories by "pinning" them on your profile via the "Customize your pins" button.
 
