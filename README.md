@@ -29,9 +29,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Amen's GitHub Stats](https://github-readme-stats.vercel.app/api?ai7mn=yourai7mn&show_icons=true&theme=radical)
+![Amen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai7mn&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ai7mn=yourai7mn&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ai7mn&layout=compact)
 
 ---
 
