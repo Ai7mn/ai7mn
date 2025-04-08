@@ -12,7 +12,7 @@
 - Hosting with DigitalOcean, GCP, and Linux servers
 
 📫 How to reach me:  
-[LinkedIn](https://linkedin.com/in/yourname) | [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://linkedin.com/in/aiman-daba-1bb700213/) | [Portfolio](https://www.infinitycode.tech)
 
 ---
 
