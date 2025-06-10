@@ -39,7 +39,7 @@
 
 ## 📌 Pinned Projects
 
-### 🛒 [Django E-commerce App]([https://store.comfort-ye.com/])  
+### 🛒 [Django E-commerce App](https://store.comfort-ye.com/)  
 A full-featured online store built with Django, featuring product management, cart, checkout, and order tracking.
 
 ---
