@@ -44,10 +44,10 @@ A full-featured online store built with Django, featuring product management, ca
 
 ---
 
-### 🧭 [Dalil App]([https://play.google.com/store/apps/details?id=com.infinitycode.dalil])  
+### 🧭 [Dalil App](https://play.google.com/store/apps/details?id=com.infinitycode.dalil)  
 A local business directory platform built with Django and Firebase, helping users find shops, services, and contact info across Yemen — including a powerful contact name finder feature similar to Truecaller, allowing users to search phone numbers and discover associated names.
 
 ---
 
-### 💊 [Cure To You - Online Pharmacy]([https://ai7mn.pythonanywhere.com/])  
+### 💊 [Cure To You - Online Pharmacy](https://ai7mn.pythonanywhere.com/)  
 A Django-based pharmacy web app for browsing and ordering medicines online, with secure user login, search, and prescription uploads.
