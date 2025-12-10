@@ -44,8 +44,10 @@ A full-featured online store built with Django, featuring product management, ca
 
 ---
 
-### 🧭 [Dalil App](https://play.google.com/store/apps/details?id=com.infinitycode.dalil)  
-A local business directory platform built with Django and Firebase, helping users find shops, services, and contact info across Yemen — including a powerful contact name finder feature similar to Truecaller, allowing users to search phone numbers and discover associated names.
+### 📱 [Devices Arena](https://www.devices-arena.com/)  
+A tech news and comparison platform fully managed and updated automatically by AI, providing users with the latest information on devices, specs, and tech trends — including smart tools for comparing gadgets and discovering detailed device information.
+
+
 
 ---
 
