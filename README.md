@@ -27,11 +27,12 @@
 ![Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
-![Amen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai7mn&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ai7mn&layout=compact)
+![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai7mn&show_icons=true&theme=radical) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ai7mn&layout=compact&theme=radical)
+
 
 ---
 
