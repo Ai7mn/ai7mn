@@ -29,7 +29,7 @@
 ---
 ### 📊 GitHub Stats
 
-![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai7mn&show_icons=true&theme=radical) 
+![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ai7mn&show_icons=true&count_private=true&include_all_commits=true&theme=radical) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ai7mn&layout=compact&theme=radical)
 
