@@ -114,13 +114,13 @@ The system combines **unique QR invitations, guest verification, invitation secu
 
 ### 🛡️ [Flowmotion Pest Control](https://pestcontrol.flowmotion.sa/)
 
-A professional **WordPress-based corporate website** developed for a pest-control company operating across Saudi Arabia.
+A modern, high-performance **pest control services website** developed for FlowMotion, a professional pest management company serving residential, commercial, and industrial clients across Saudi Arabia.
 
-The website presents residential, commercial, industrial, facility-management, and specialized pest-control services through a structured and responsive interface designed to improve service discovery and customer lead generation.
+The platform features a clean, responsive design with dedicated service pages, intuitive navigation, and SEO-optimized content. Built with a focus on **speed, accessibility, user experience, and search engine visibility**, the website helps customers explore pest control solutions and connect with the company effortlessly.
 
-**Tech Stack:** WordPress • Responsive Web Design • SEO • Performance Optimization
+**Tech Stack:** HTML5 • CSS3 • JavaScript • Node.js • Responsive Web Design • Technical SEO
 
-**Highlights:** WordPress • Corporate Website • Service Discovery • Lead Generation • Saudi Market
+**Highlights:** Custom Web Development • SEO Optimization • High Performance • Mobile-First Design • User Experience • Lead Generation • Saudi Market
 
 ---
 
